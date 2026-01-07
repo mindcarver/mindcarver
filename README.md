@@ -89,40 +89,36 @@ Welcome to my digital forest! I'm a passionate blockchain developer and quantita
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mindcarver&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
+</p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mindcarver&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/mindcarver)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindcarver&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&exclude_repo=picture_bed&cache_seconds=1800" alt="Top Languages" />
+</p>
 
-</div>
-
-<div align="center">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mindcarver&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&exclude_repo=picture_bed)](https://github.com/mindcarver)
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mindcarver&theme=tokyonight&hide_border=true)](https://github.com/mindcarver)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mindcarver&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 🌟 Featured Projects
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/blockchainGuide/blockchainguide">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=blockchainGuide&repo=blockchainguide&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Blockchain Guide" />
+  </a>
+  <a href="https://github.com/blockchainGuide/rust_review">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=blockchainGuide&repo=rust_review&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Rust Review" />
+  </a>
+</p>
 
-[![Blockchain Guide](https://github-readme-stats.vercel.app/api/pin/?username=blockchainGuide&repo=blockchainguide&theme=tokyonight&hide_border=true)](https://github.com/blockchainGuide/blockchainguide)
-[![Rust Review](https://github-readme-stats.vercel.app/api/pin/?username=blockchainGuide&repo=rust_review&theme=tokyonight&hide_border=true)](https://github.com/blockchainGuide/rust_review)
-
-</div>
-
-<div align="center">
-
-[![ZKP Tech](https://github-readme-stats.vercel.app/api/pin/?username=blockchainGuide&repo=zkp_tech&theme=tokyonight&hide_border=true)](https://github.com/blockchainGuide/zkp_tech)
-
-</div>
+<p align="center">
+  <a href="https://github.com/blockchainGuide/zkp_tech">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=blockchainGuide&repo=zkp_tech&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="ZKP Tech" />
+  </a>
+</p>
 
 ### 📚 More Projects
 Check out more of my work and contributions in my [repositories](https://github.com/mindcarver?tab=repositories)!
