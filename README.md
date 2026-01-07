@@ -89,11 +89,11 @@ Welcome to my digital forest! I'm a passionate blockchain developer and quantita
 
 ## 🌟 Featured Projects
 
-- 📚 [**Blockchain Guide**](https://github.com/blockchainGuide/blockchainguide) - 区块链技术知识库，持续更新
-- 🦀 [**Rust Review**](https://github.com/blockchainGuide/rust_review) - Rust 语言学习与实践
-- 🔐 [**ZKP Tech**](https://github.com/blockchainGuide/zkp_tech) - 零知识证明技术研究
+- 📚 [**Blockchain Guide**](https://github.com/blockchainGuide/blockchainguide) - Comprehensive blockchain technology knowledge base
+- 🦀 [**Rust Review**](https://github.com/blockchainGuide/rust_review) - Rust programming language learning & practice
+- 🔐 [**ZKP Tech**](https://github.com/blockchainGuide/zkp_tech) - Zero Knowledge Proof technology research
 
-➡️ [查看更多项目](https://github.com/mindcarver?tab=repositories)
+➡️ [View more projects](https://github.com/mindcarver?tab=repositories)
 
 ---
 
