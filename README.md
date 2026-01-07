@@ -87,41 +87,13 @@ Welcome to my digital forest! I'm a passionate blockchain developer and quantita
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mindcarver&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindcarver&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&exclude_repo=picture_bed&cache_seconds=1800" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mindcarver&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🌟 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/blockchainGuide/blockchainguide">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=blockchainGuide&repo=blockchainguide&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Blockchain Guide" />
-  </a>
-  <a href="https://github.com/blockchainGuide/rust_review">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=blockchainGuide&repo=rust_review&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Rust Review" />
-  </a>
-</p>
+- 📚 [**Blockchain Guide**](https://github.com/blockchainGuide/blockchainguide) - 区块链技术知识库，持续更新
+- 🦀 [**Rust Review**](https://github.com/blockchainGuide/rust_review) - Rust 语言学习与实践
+- 🔐 [**ZKP Tech**](https://github.com/blockchainGuide/zkp_tech) - 零知识证明技术研究
 
-<p align="center">
-  <a href="https://github.com/blockchainGuide/zkp_tech">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=blockchainGuide&repo=zkp_tech&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="ZKP Tech" />
-  </a>
-</p>
-
-### 📚 More Projects
-Check out more of my work and contributions in my [repositories](https://github.com/mindcarver?tab=repositories)!
+➡️ [查看更多项目](https://github.com/mindcarver?tab=repositories)
 
 ---
 
